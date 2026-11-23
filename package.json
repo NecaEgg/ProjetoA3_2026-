@@ -1,0 +1,9 @@
+{
+  "name": "traco-fase1",
+  "version": "1.0.0",
+  "description": "Linguagem de desenho Traço - Fase 1: analisador léxico, sintático e AST",
+  "type": "module",
+  "scripts": {
+    "test": "node rodar-testes.js"
+  }
+}
